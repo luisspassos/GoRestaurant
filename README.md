@@ -1,7 +1,7 @@
 <img src=".github/ignite.png" alt="Ignite" >
 
 <h3 align="center">
-  Desafio 04 - Refactoring de classes e typescript
+  Challenge 04 - Class refactoring and typescript
 </h3>
 
 <p align="center">
@@ -16,46 +16,46 @@
 
 <br>
 
-## :rocket: Sobre o desafio
+## :rocket: About the challenge
 
 <p align="center">
   <img src=".github/gorestaurant.png" alt="GoRestaurant">
 </p>
 
-Nesse desafio, o objetivo é realizar dois processos de migração: de Javascript para Typescript e de Class Components para Function Components.
+In this challenge, the objective is to perform two migration processes: from Javascript to Typescript and from Class Components to Function Components. 
 
-Todos os arquivos devem ser migrados de Javascript para Typescript. Além disso, os arquivos que possuírem componentes em classe devem ser migrados para componentes funcionais utilizando hooks.
+All the files must be migrated from Javascript To Typescript. In addition, the files that possess class components must be migrated to functional components using hooks.
 
 <br>
 
-## :wrench: Instalação e uso
+## :wrench: Installation and use
 
 ```bash
-# Abra um terminal e copie este repositório com o comando
+# Open a terminal and copy this repository with the command
 git clone https://github.com/luisspassos/gorestaurant
-# ou use a opção de download.
+# or use the download option.
 
-# Entre na pasta com 
+# Enter the folder with 
 cd gorestaurant
 
-# Instale as dependências
+# Install the dependencies
 yarn install
 
-# Inicie a Fake API
+# Start the fake API
 yarn server
 
-# Rode a aplicação
+# Run the development server
 yarn start
 ```
 
 <br>
 
-## :memo: Licença
+## :memo: License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para mais detalhes.
+This project is under the MIT license. See the [LICENSE](/LICENSE) file for more details.
 
 ---
 
-Feito com :purple_heart: by [Luís Passos](https://github.com/luisspassos)
+Made with :purple_heart: by [Luís Passos](https://github.com/luisspassos)
 
 [![Gmail Badge](https://img.shields.io/badge/-luis.passos013@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luis.passos013@gmail.com)](mailto:luis.passos013@gmail.com)
